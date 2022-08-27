@@ -2,7 +2,7 @@ package codeup_basic;
 
 import java.util.Scanner;
 
-public class First_001 {
+public class Codeup_20220826_1 {
 
 		
 		public void test01() {

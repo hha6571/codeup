@@ -2,7 +2,7 @@ package codeup_basic;
 
 import java.util.Scanner;
 
-public class First_011 {
+public class Codeup_20220826_2 {
 
 	public void test11() {
 		// 011. 주민번호 입력받아 형태 바꿔 출력하기

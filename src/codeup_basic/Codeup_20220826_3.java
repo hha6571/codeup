@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import javax.swing.text.AbstractDocument.BranchElement;
 
-public class First_021 {
+public class Codeup_20220826_3 {
 	public void test21() {
 		//21. 정수 3개 입력받아 합과 평균 출력
 		Scanner sc = new Scanner(System.in);

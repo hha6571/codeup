@@ -1,14 +1,16 @@
 package codeup.run;
 
-import codeup_basic.First_001;
-import codeup_basic.First_011;
-import codeup_basic.First_021;
+import codeup_basic.Codeup_20220826_1;
+import codeup_basic.Codeup_20220826_2;
+import codeup_basic.Codeup_20220826_3;
+import codeup_basic.Codeup_20220827_1;
 
 public class Run {
 	public static void main(String[] args) {
-		First_001 f01 = new First_001();
-		First_011 f11 = new First_011();
-		First_021 f21 = new First_021();
+		Codeup_20220826_1 f01 = new Codeup_20220826_1();
+		Codeup_20220826_2 f11 = new Codeup_20220826_2();
+		Codeup_20220826_3 f21 = new Codeup_20220826_3();
+		Codeup_20220827_1 f31 = new Codeup_20220827_1();
 		
 //		f01.test01();
 //		f01.test02();
@@ -39,7 +41,12 @@ public class Run {
 //		f21.test27();
 //		f21.test28();
 //		f21.test29();
-		f21.test30();
+//		f21.test30();
+//		f31.test31();
+//		f31.test32();
+//		f31.test33();
+//		f31.test34();
+		f31.test35();
 		
 	}
 }
