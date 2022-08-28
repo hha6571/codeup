@@ -4,6 +4,7 @@ import codeup_basic.Codeup_20220826_1;
 import codeup_basic.Codeup_20220826_2;
 import codeup_basic.Codeup_20220826_3;
 import codeup_basic.Codeup_20220827_1;
+import codeup_basic.Codeup_20220828_1;
 
 public class Run {
 	public static void main(String[] args) {
@@ -11,6 +12,7 @@ public class Run {
 		Codeup_20220826_2 f11 = new Codeup_20220826_2();
 		Codeup_20220826_3 f21 = new Codeup_20220826_3();
 		Codeup_20220827_1 f31 = new Codeup_20220827_1();
+		Codeup_20220828_1 f41 = new Codeup_20220828_1();
 		
 //		f01.test01();
 //		f01.test02();
@@ -46,7 +48,19 @@ public class Run {
 //		f31.test32();
 //		f31.test33();
 //		f31.test34();
-		f31.test35();
+//		f31.test35();
+//		f31.test36();
+//		f31.test37();
+//		f31.test38();
+//		f31.test39();
+//		f31.test40();
+//		f41.test41();
+//		f41.test42();
+//		f41.test43();
+//		f41.test44();
+//		f41.test45();
+//		f41.test46();
+		f41.test47();
 		
 	}
 }
